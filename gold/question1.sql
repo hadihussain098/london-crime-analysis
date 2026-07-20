@@ -1,4 +1,4 @@
---- Q1 — Which London boroughs have the highest total number of crimes across all months combined?
+--- Q1 â€” Which London boroughs have the highest total number of crimes across all months combined?
 -- ============================================
 -- LONDON CRIME ANALYSIS
 
